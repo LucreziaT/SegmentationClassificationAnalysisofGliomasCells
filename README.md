@@ -8,4 +8,4 @@ areas.
 Particularly, profiling the molecular features associated with the morphological landscape of tissues is critical for investigating the structural and spatial patterns that underlie the biological function of tissues.
 Fortunately, however, in recent years, several methods for multiplexed tissue imaging have been implemented, image processing can gave use information about statistics and predictions in a completely non intrusive manner.
 
-In this project I tryed using state of art metods to predict and do analysis and statistics about one image of gliomas cells, more information can be found on the nothebook and on the report. 
+In this project, I have tried to use state-of-the-art methods to predict and do analysis and statistics on an image of glioma cells, more information can be found in the note book and the report.
